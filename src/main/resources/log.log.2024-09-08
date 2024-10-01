@@ -1,0 +1,159 @@
+[2024-09-08 01:32:08,967] http-nio-8080-exec-6 com.example.demo.controller.AdminController 133 INFO   - Accessed the appointment page
+[2024-09-08 01:32:18,287] http-nio-8080-exec-1 com.example.demo.controller.AdminController 133 INFO   - Accessed the appointment page
+[2024-09-08 01:32:21,652] http-nio-8080-exec-2 com.example.demo.controller.AdminController 75 INFO   - Accessed the messages page
+[2024-09-08 01:32:26,242] http-nio-8080-exec-9 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 01:33:39,931] http-nio-8080-exec-5 com.example.demo.controller.AdminController 168 INFO   - User registered with email: ppk@gmail.com
+[2024-09-08 01:33:39,944] http-nio-8080-exec-6 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 01:33:54,691] http-nio-8080-exec-2 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 01:33:57,867] http-nio-8080-exec-2 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 01:34:06,867] http-nio-8080-exec-2 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 01:34:15,582] http-nio-8080-exec-4 com.example.demo.controller.AdminController 75 INFO   - Accessed the messages page
+[2024-09-08 01:34:17,535] http-nio-8080-exec-5 com.example.demo.controller.AdminController 133 INFO   - Accessed the appointment page
+[2024-09-08 01:34:18,751] http-nio-8080-exec-7 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 01:34:22,857] http-nio-8080-exec-8 com.example.demo.controller.AdminController 240 INFO   - Editing user with ID: 2
+[2024-09-08 01:35:01,045] http-nio-8080-exec-7 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 01:35:04,956] http-nio-8080-exec-10 com.example.demo.controller.AdminController 240 INFO   - Editing user with ID: 2
+[2024-09-08 01:35:20,199] http-nio-8080-exec-8 com.example.demo.controller.AdminController 268 INFO   - Updated user with ID: 2
+[2024-09-08 01:35:20,207] http-nio-8080-exec-5 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 01:35:23,605] http-nio-8080-exec-2 com.example.demo.controller.AdminController 240 INFO   - Editing user with ID: 2
+[2024-09-08 01:35:25,526] http-nio-8080-exec-5 com.example.demo.controller.AdminController 268 INFO   - Updated user with ID: 2
+[2024-09-08 01:35:25,533] http-nio-8080-exec-8 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 01:36:09,724] http-nio-8080-exec-1 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 01:36:13,034] http-nio-8080-exec-5 com.example.demo.controller.AdminController 240 INFO   - Editing user with ID: 2
+[2024-09-08 01:48:55,755] http-nio-8080-exec-3 com.example.demo.controller.DoctorController 99 INFO   - Accessed the AddDetails page
+[2024-09-08 20:56:03,888] http-nio-8080-exec-3 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 20:56:27,269] http-nio-8080-exec-1 com.example.demo.controller.AdminController 133 INFO   - Accessed the appointment page
+[2024-09-08 20:56:28,526] http-nio-8080-exec-5 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 20:57:37,814] http-nio-8080-exec-10 com.example.demo.controller.DoctorController 99 INFO   - Accessed the AddDetails page
+[2024-09-08 20:58:00,057] http-nio-8080-exec-4 com.example.demo.controller.AdminController 133 INFO   - Accessed the appointment page
+[2024-09-08 20:58:04,531] http-nio-8080-exec-3 com.example.demo.controller.AdminController 75 INFO   - Accessed the messages page
+[2024-09-08 20:58:06,425] http-nio-8080-exec-2 com.example.demo.controller.AdminController 133 INFO   - Accessed the appointment page
+[2024-09-08 20:58:07,234] http-nio-8080-exec-7 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 20:58:08,849] http-nio-8080-exec-9 com.example.demo.controller.AdminController 133 INFO   - Accessed the appointment page
+[2024-09-08 21:02:07,137] http-nio-8080-exec-9 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 21:02:13,335] http-nio-8080-exec-4 com.example.demo.controller.AdminController 133 INFO   - Accessed the appointment page
+[2024-09-08 21:02:18,191] http-nio-8080-exec-9 com.example.demo.controller.AdminController 75 INFO   - Accessed the messages page
+[2024-09-08 21:02:27,857] http-nio-8080-exec-6 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 21:02:31,861] http-nio-8080-exec-4 com.example.demo.controller.AdminController 240 INFO   - Editing user with ID: 1
+[2024-09-08 21:03:03,181] http-nio-8080-exec-5 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 21:03:48,882] http-nio-8080-exec-2 com.example.demo.controller.AdminController 168 INFO   - User registered with email: cn@gmail.com
+[2024-09-08 21:03:48,894] http-nio-8080-exec-4 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 21:04:00,742] http-nio-8080-exec-10 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 21:13:16,685] http-nio-8080-exec-3 com.example.demo.controller.DoctorController 143 ERROR  - An error occurred while accessing the Appointment page
+java.lang.NullPointerException: Cannot invoke "com.example.demo.model.DoctorDetails.getFirstName()" because "details" is null
+	at com.example.demo.controller.DoctorController.Appointment(DoctorController.java:133)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:365)
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:227)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+[2024-09-08 21:13:16,688] http-nio-8080-exec-3 com.example.demo.controller.DoctorController 146 WARN   - Failed to access the Appointment page
+[2024-09-08 21:13:26,226] http-nio-8080-exec-10 com.example.demo.controller.DoctorController 99 INFO   - Accessed the AddDetails page
+[2024-09-08 21:13:45,826] http-nio-8080-exec-9 com.example.demo.controller.DoctorController 340 INFO   - Doctor details have been successfully saved.
+[2024-09-08 21:14:13,555] http-nio-8080-exec-10 com.example.demo.controller.frontPageController 94 INFO   - Loaded doctor details for ID: 1
+[2024-09-08 21:14:21,970] http-nio-8080-exec-8 com.example.demo.controller.UserController 56 INFO   - Doctor details retrieved successfully for booking confirmation: com.example.demo.model.DoctorDetails@681a1597
+[2024-09-08 21:15:21,745] http-nio-8080-exec-9 com.example.demo.controller.UserController 81 INFO   - Booking details saved successfully for doctor: PP
+[2024-09-08 21:15:43,611] http-nio-8080-exec-8 com.example.demo.controller.DoctorController 137 INFO   - Accessed the Appointment page
+[2024-09-08 21:16:14,187] http-nio-8080-exec-7 com.example.demo.controller.DoctorController 178 INFO   - Accessed the 'approve' page for appointment with ID: 1
+[2024-09-08 21:16:21,693] http-nio-8080-exec-9 com.example.demo.controller.DoctorController 137 INFO   - Accessed the Appointment page
+[2024-09-08 21:16:23,071] http-nio-8080-exec-9 com.example.demo.controller.DoctorController 267 INFO   - Accessed the 'decline' page for appointment with ID: 1
+[2024-09-08 21:16:32,916] http-nio-8080-exec-1 com.example.demo.controller.DoctorController 319 INFO   - Appointment with ID: 1 has been declined.
+[2024-09-08 21:16:32,927] http-nio-8080-exec-3 com.example.demo.controller.DoctorController 137 INFO   - Accessed the Appointment page
+[2024-09-08 21:16:47,313] http-nio-8080-exec-7 com.example.demo.controller.DoctorController 267 INFO   - Accessed the 'decline' page for appointment with ID: 1
+[2024-09-08 21:16:54,967] http-nio-8080-exec-10 com.example.demo.controller.DoctorController 137 INFO   - Accessed the Appointment page
+[2024-09-08 21:17:18,244] http-nio-8080-exec-2 com.example.demo.controller.frontPageController 94 INFO   - Loaded doctor details for ID: 1
+[2024-09-08 21:17:20,485] http-nio-8080-exec-8 com.example.demo.controller.UserController 56 INFO   - Doctor details retrieved successfully for booking confirmation: com.example.demo.model.DoctorDetails@a2aa5ad
+[2024-09-08 21:18:01,772] http-nio-8080-exec-2 com.example.demo.controller.UserController 81 INFO   - Booking details saved successfully for doctor: PP
+[2024-09-08 21:18:19,179] http-nio-8080-exec-4 com.example.demo.controller.DoctorController 137 INFO   - Accessed the Appointment page
+[2024-09-08 21:18:32,856] http-nio-8080-exec-5 com.example.demo.controller.DoctorController 178 INFO   - Accessed the 'approve' page for appointment with ID: 1
+[2024-09-08 21:18:39,416] http-nio-8080-exec-4 com.example.demo.controller.DoctorController 227 INFO   - Appointment with ID: 1 has been successfully approved
+[2024-09-08 21:18:39,424] http-nio-8080-exec-2 com.example.demo.controller.DoctorController 137 INFO   - Accessed the Appointment page
+[2024-09-08 22:05:12,611] http-nio-8080-exec-8 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 22:06:37,525] http-nio-8080-exec-8 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-09-08 22:06:41,682] http-nio-8080-exec-4 com.example.demo.controller.AdminController 133 INFO   - Accessed the appointment page
+[2024-09-08 22:06:53,156] http-nio-8080-exec-2 com.example.demo.controller.AdminController 75 INFO   - Accessed the messages page
+[2024-09-08 22:06:54,486] http-nio-8080-exec-7 com.example.demo.controller.AdminController 133 INFO   - Accessed the appointment page
+[2024-09-08 23:45:04,465] http-nio-8080-exec-8 com.example.demo.controller.AdminController 133 INFO   - Accessed the appointment page
+[2024-09-08 23:45:05,423] http-nio-8080-exec-4 com.example.demo.controller.AdminController 75 INFO   - Accessed the messages page
+[2024-09-08 23:45:07,311] http-nio-8080-exec-7 com.example.demo.controller.AdminController 133 INFO   - Accessed the appointment page

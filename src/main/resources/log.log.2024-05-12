@@ -1,0 +1,2 @@
+[2024-05-12 02:09:00,491] http-nio-8080-exec-7 com.example.demo.controller.AdminController 103 INFO   - Accessed the manage role page
+[2024-05-12 02:09:25,343] http-nio-8080-exec-5 com.example.demo.controller.DoctorController 137 INFO   - Accessed the Appointment page
